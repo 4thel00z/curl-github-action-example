@@ -1,5 +1,7 @@
 # curl-github-action-example
 
+![curl-badge](https://github.com/4thel00z/curl-github-action-example/workflows/curl/badge.svg)
+
 ## Motivation
 
 This is a showcase for the [curl-github-action](https://github.com/marketplace/actions/curl-github-action).

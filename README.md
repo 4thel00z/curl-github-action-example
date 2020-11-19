@@ -1,6 +1,6 @@
 # curl-github-action-example
 
-![curl-badge](https://github.com/4thel00z/curl-github-action-example/workflows/curl/badge.svg)
+![curl-badge](https://github.com/4thel00z/curl-github-action-example/workflows/.github/workflows/curl.yml/badge.svg)
 
 ## Motivation
 

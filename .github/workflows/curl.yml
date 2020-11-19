@@ -1,0 +1,9 @@
+on: push
+jobs:
+  curl:
+    runs-on: ubuntu-latest
+    steps:
+    - name: curl
+      uses: 4thel00z/curl-github-action@master
+      with:
+        args: https://ransomware.host
